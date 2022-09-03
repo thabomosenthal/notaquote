@@ -1,3 +1,3 @@
 # notaquote
 
-1. reading is a lost art on tweet
+1. reading is a lost art on twitter
